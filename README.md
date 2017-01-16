@@ -1,2 +1,3 @@
 # miniBrowser
-a demo show for my keynote. I made a miniBrowser use 100 lines code,it's intresting.
+a demo show for my keynote. I used less than 200 lines of code to write a mini browser
+,it's intresting.
